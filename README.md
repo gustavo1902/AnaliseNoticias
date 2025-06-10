@@ -8,10 +8,12 @@ Este projeto coleta notícias usando a [NewsAPI](https://newsapi.org/), realiza 
 - Classificação de sentimento: Positivo, Neutro ou Negativo
 - Geração de gráfico de barras com contagem de sentimentos
 
-## 📦 Requisitos
+## Requisitos
 
 - Python 3.8+
 - Conta gratuita na [NewsAPI](https://newsapi.org/) para obter uma API key
+
+## Exemplo de resultado
 
 ![Gráfico de Análise de Sentimentos](grafico_sentimentos.png)
 
